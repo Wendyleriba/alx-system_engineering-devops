@@ -1,2 +1,1 @@
-#!bin/bash
-Where am l?
+script the prints the absolute path name of the current working directory
